@@ -1,0 +1,6 @@
+E:\projects\TestApp3\App2\obj\ARM\Debug\App.g.i.cs
+E:\projects\TestApp3\App2\obj\ARM\Debug\App.g.cs
+E:\projects\TestApp3\App2\obj\ARM\Debug\App.xaml
+E:\projects\TestApp3\App2\obj\ARM\Debug\MainPage.xaml
+E:\projects\TestApp3\App2\obj\ARM\Debug\App.xbf
+E:\projects\TestApp3\App2\obj\ARM\Debug\MainPage.xbf
